@@ -1,4 +1,4 @@
-# Platform aware programming
+# Platform-aware programming
 
 It is the practice of writing *computationally demanding code* making assumptions about *features* specific to the resources of the target execution platform, such as deep memory hierarchies, multiprocessor nodes of a cluster, cluster's interconnection/network, processors of a multiprocessor system, cores of a multicore processor, accelerators (GPUs, FPGAs, MICs, etc), and so on.
 
